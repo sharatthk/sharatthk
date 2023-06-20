@@ -3,7 +3,8 @@
 ### Hi there folks 👋
 
 ![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharatthk&theme=vision-friendly-dark&show_icons=true)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharatthk&theme=vision-friendly-dark&hide=assembly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharatthk&theme=vision-friendly-dark&hide=assembly)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharatthk&theme=vision-friendly-dark&hide=assembly&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sharatthk/sharatthk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
