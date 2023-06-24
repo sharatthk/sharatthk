@@ -26,9 +26,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/sharatthk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="sharatthk" /></a>
+<!--<a href="https://linkedin.com/in/sharatthk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="sharatthk" /></a>-->
 <a href="https://github.com/sharatthk" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sharatthk" /></a>
-<a href="mailto:crazysharatthk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sharatthk" /></a>
+<a href="mailto:sharahtkk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sharatthk" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharatthk&label=Visitors&color=0088cc&style=flat-square" alt="sharatthk" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -51,12 +51,12 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=sharatthk&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=sharatthk&column=8&theme=onedark"/>
   </a>
  </p>
 </details>
 
-
+<!--
 <details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
@@ -68,4 +68,4 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
-</details>
+</details>-->
