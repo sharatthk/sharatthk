@@ -28,7 +28,7 @@
 <p align="center">
 <!--<a href="https://linkedin.com/in/sharatthk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="sharatthk" /></a>-->
 <a href="https://github.com/sharatthk" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sharatthk" /></a>
-<a href="mailto:sharahtkk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sharatthk" /></a>
+<a href="mailto:sharahtk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sharatthk" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharatthk&label=Visitors&color=0088cc&style=flat-square" alt="sharatthk" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
